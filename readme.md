@@ -1,4 +1,4 @@
-Here's a detailed README for your IPL Data Analysis and API Development project:
+
 
 ---
 
