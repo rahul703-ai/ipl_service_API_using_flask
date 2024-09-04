@@ -4,7 +4,7 @@ Here's a detailed README for your IPL Data Analysis and API Development project:
 
 # IPL Data Analysis and API Development
 
-This project is focused on developing RESTful APIs using Flask to analyze IPL matches data. The APIs are designed to provide insights into player statistics, team performances, and predict match outcomes. This project showcases skills in API development, data preprocessing, and data analysis.
+This project is focused on developing APIs using Flask to analyze IPL matches data. The APIs are designed to provide insights into player statistics, team performances, and predict match outcomes. This project showcases skills in API development, data preprocessing, and data analysis.
 
 ## Table of Contents
 
@@ -34,7 +34,7 @@ This project is focused on developing RESTful APIs using Flask to analyze IPL ma
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/ipl-data-analysis-api.git
+   git clone https://github.com/rahul703-ai/ipl-data-analysis-api.git
    ```
 2. **Navigate to the Project Directory**:
    ```bash
